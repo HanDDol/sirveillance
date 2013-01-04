@@ -7,4 +7,9 @@ Requirments
    . A/V are streamed with RTP/RTSP
  
 Prerequisite
- - libev will be used 
+ - libev will be used for network engine
+ 
+Building instructions
+ - cmake .
+ - make
+ 
